@@ -49,12 +49,12 @@ msgstr "Lista de Categor&iacute;s:"
 
 #: C:\xampp\htdocs\blogsRun\wp-content\plugins\bp-group-documents/buddypress-group-documents.php:131
 msgid "Update"
-msgstr ""
+msgstr "Actualizar"
 
 #: C:\xampp\htdocs\blogsRun\wp-content\plugins\bp-group-documents/buddypress-group-documents.php:136
 #, php-format
 msgid "Are you sure you want to delete category <b>%s</b>?"
-msgstr ""
+msgstr "¿Est&aacute; seguro de borrar la categoria?"
 
 #: C:\xampp\htdocs\blogsRun\wp-content\plugins\bp-group-documents/buddypress-group-documents.php:139
 #, php-format
@@ -79,7 +79,7 @@ msgstr "Editar"
 #: C:\xampp\htdocs\blogsRun\wp-content\plugins\bp-group-documents/buddypress-group-documents.php:162
 #: C:\xampp\htdocs\blogsRun\wp-content\plugins\bp-group-documents/include/cssjs.php:23
 msgid "Add"
-msgstr ""
+msgstr "Agregar"
 
 #: C:\xampp\htdocs\blogsRun\wp-content\plugins\bp-group-documents/buddypress-group-documents.php:171
 msgid "Save Changes"
@@ -134,7 +134,7 @@ msgstr ""
 #: C:\xampp\htdocs\blogsRun\wp-content\plugins\bp-group-documents/include/activity.php:14
 #, php-format
 msgid "%s uploaded the file: %s to %s"
-msgstr "%s trasnfiri&oacute; el archivo: %s a %s"
+msgstr "%s transfiri&oacute; el archivo: %s a %s"
 
 #: C:\xampp\htdocs\blogsRun\wp-content\plugins\bp-group-documents/include/activity.php:34
 #, php-format
@@ -225,12 +225,12 @@ msgstr "Documentos del Grupo"
 
 #: C:\xampp\htdocs\blogsRun\wp-content\plugins\bp-group-documents/include/bp_group_documents_functions.php:32
 msgid "Group"
-msgstr ""
+msgstr "Grupo"
 
 #: C:\xampp\htdocs\blogsRun\wp-content\plugins\bp-group-documents/include/bp_group_documents_functions.php:36
 #: C:\xampp\htdocs\blogsRun\wp-content\plugins\bp-group-documents/include/bp_group_documents_functions.php:59
 msgid "List"
-msgstr ""
+msgstr "Lista"
 
 #: C:\xampp\htdocs\blogsRun\wp-content\plugins\bp-group-documents/include/bp_group_documents_functions.php:66
 #: C:\xampp\htdocs\blogsRun\wp-content\plugins\bp-group-documents/include/bp_group_documents_functions.php:266
@@ -308,7 +308,7 @@ msgstr "Descripci&oacute;n:"
 
 #: C:\xampp\htdocs\blogsRun\wp-content\plugins\bp-group-documents/include/bp_group_documents_functions.php:286
 msgid "Save"
-msgstr ""
+msgstr "Guardar"
 
 #: C:\xampp\htdocs\blogsRun\wp-content\plugins\bp-group-documents/include/bp_group_documents_functions.php:291
 #: C:\xampp\htdocs\blogsRun\wp-content\plugins\bp-group-documents/include/templatetags.php:167
@@ -382,11 +382,11 @@ msgstr ""
 
 #: C:\xampp\htdocs\blogsRun\wp-content\plugins\bp-group-documents/include/cssjs.php:22
 msgid "Are you sure you wish to permanently delete this document?"
-msgstr ""
+msgstr "¿Est&aacute; seguro de borrar permanentemente este documento?"
 
 #: C:\xampp\htdocs\blogsRun\wp-content\plugins\bp-group-documents/include/filters.php:82
 msgid "That group does not exist."
-msgstr ""
+msgstr "Este grupo no existe"
 
 #: C:\xampp\htdocs\blogsRun\wp-content\plugins\bp-group-documents/include/filters.php:91
 #, php-format
@@ -442,7 +442,7 @@ msgstr ""
 "\n"
 "Para ver el perfil de %s: %s\n"
 "\n"
-"Para ver la homepage de %s: %s\n"
+"Para ver la p&aacute;gina de inicio de %s: %s\n"
 "\n"
 "Para descargar el nuevo fichero: %s\n"
 "\n"
@@ -459,7 +459,7 @@ msgstr "El documento se edit&oacute; correctamente"
 
 #: C:\xampp\htdocs\blogsRun\wp-content\plugins\bp-group-documents/include/templatetags.php:191
 msgid "You don't have permission to upload files"
-msgstr ""
+msgstr "Usted no tiene permisos para subir ficheros"
 
 #: C:\xampp\htdocs\blogsRun\wp-content\plugins\bp-group-documents/include/templatetags.php:201
 #, fuzzy
@@ -550,16 +550,16 @@ msgstr "Los documentos de grupo m&aacute;s descargados"
 
 #: C:\xampp\htdocs\blogsRun\wp-content\plugins\bp-group-documents/include/widgets.php:233
 msgid "downloads"
-msgstr ""
+msgstr "Descargas"
 
 #: C:\xampp\htdocs\blogsRun\wp-content\plugins\bp-group-documents/include/widgets.php:301
 msgid "Show downloads"
-msgstr ""
+msgstr "Ver descargas"
 
 #: C:\xampp\htdocs\blogsRun\wp-content\plugins\bp-group-documents/include/widgets.php:319
 #, php-format
 msgid "%s in your groups"
-msgstr ""
+msgstr "%s en sus grupos"
 
 #: C:\xampp\htdocs\blogsRun\wp-content\plugins\bp-group-documents/include/widgets.php:320
 #, php-format
@@ -574,21 +574,21 @@ msgstr ""
 #: C:\xampp\htdocs\blogsRun\wp-content\plugins\bp-group-documents/include/widgets.php:421
 #, php-format
 msgid "%s in this group"
-msgstr ""
+msgstr "%s en este grupo"
 
 #: C:\xampp\htdocs\blogsRun\wp-content\plugins\bp-group-documents/include/widgets.php:422
 #, php-format
 msgid "%s for the current group."
-msgstr ""
+msgstr "%s para el grupo actual"
 
 #: C:\xampp\htdocs\blogsRun\wp-content\plugins\bp-group-documents/include/widgets.php:440
 #, php-format
 msgid "Recent %s for the group"
-msgstr ""
+msgstr "Recientes %s para el grupo"
 
 #: C:\xampp\htdocs\blogsRun\wp-content\plugins\bp-group-documents/include/widgets.php:474
 msgid "View all"
-msgstr ""
+msgstr "Ver todo"
 
 #~ msgid "Bulk File Uploads"
 #~ msgstr "Transferencias en masa"
